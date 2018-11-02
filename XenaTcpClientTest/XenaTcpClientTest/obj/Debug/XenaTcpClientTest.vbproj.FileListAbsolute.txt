@@ -1,0 +1,12 @@
+C:\Users\mcrane\AppData\Local\Temporary Projects\XenaTcpClientTest\bin\Debug\XenaTcpClientTest.exe.config
+C:\Users\mcrane\AppData\Local\Temporary Projects\XenaTcpClientTest\bin\Debug\XenaTcpClientTest.exe
+C:\Users\mcrane\AppData\Local\Temporary Projects\XenaTcpClientTest\bin\Debug\XenaTcpClientTest.pdb
+C:\Users\mcrane\AppData\Local\Temporary Projects\XenaTcpClientTest\bin\Debug\XenaTcpClientTest.xml
+C:\Users\mcrane\AppData\Local\Temporary Projects\XenaTcpClientTest\obj\Debug\XenaTcpClientTest.vbprojAssemblyReference.cache
+C:\Users\mcrane\AppData\Local\Temporary Projects\XenaTcpClientTest\obj\Debug\XenaTcpClientTest.Form1.resources
+C:\Users\mcrane\AppData\Local\Temporary Projects\XenaTcpClientTest\obj\Debug\XenaTcpClientTest.Resources.resources
+C:\Users\mcrane\AppData\Local\Temporary Projects\XenaTcpClientTest\obj\Debug\XenaTcpClientTest.vbproj.GenerateResource.cache
+C:\Users\mcrane\AppData\Local\Temporary Projects\XenaTcpClientTest\obj\Debug\XenaTcpClientTest.vbproj.CoreCompileInputs.cache
+C:\Users\mcrane\AppData\Local\Temporary Projects\XenaTcpClientTest\obj\Debug\XenaTcpClientTest.exe
+C:\Users\mcrane\AppData\Local\Temporary Projects\XenaTcpClientTest\obj\Debug\XenaTcpClientTest.xml
+C:\Users\mcrane\AppData\Local\Temporary Projects\XenaTcpClientTest\obj\Debug\XenaTcpClientTest.pdb
