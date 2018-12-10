@@ -1,0 +1,15 @@
+C:\Users\mcrane\source\repos\CiscoSshClientTest\CiscoSshClientTest\bin\Debug\CiscoSshClientTest.exe.config
+C:\Users\mcrane\source\repos\CiscoSshClientTest\CiscoSshClientTest\bin\Debug\CiscoSshClientTest.exe
+C:\Users\mcrane\source\repos\CiscoSshClientTest\CiscoSshClientTest\bin\Debug\CiscoSshClientTest.pdb
+C:\Users\mcrane\source\repos\CiscoSshClientTest\CiscoSshClientTest\bin\Debug\CiscoSshClientTest.xml
+C:\Users\mcrane\source\repos\CiscoSshClientTest\CiscoSshClientTest\bin\Debug\Renci.SshNet.dll
+C:\Users\mcrane\source\repos\CiscoSshClientTest\CiscoSshClientTest\bin\Debug\Renci.SshNet.xml
+C:\Users\mcrane\source\repos\CiscoSshClientTest\CiscoSshClientTest\obj\Debug\CiscoSshClientTest.vbprojAssemblyReference.cache
+C:\Users\mcrane\source\repos\CiscoSshClientTest\CiscoSshClientTest\obj\Debug\CiscoSshClientTest.Form1.resources
+C:\Users\mcrane\source\repos\CiscoSshClientTest\CiscoSshClientTest\obj\Debug\CiscoSshClientTest.Resources.resources
+C:\Users\mcrane\source\repos\CiscoSshClientTest\CiscoSshClientTest\obj\Debug\CiscoSshClientTest.vbproj.GenerateResource.cache
+C:\Users\mcrane\source\repos\CiscoSshClientTest\CiscoSshClientTest\obj\Debug\CiscoSshClientTest.vbproj.CoreCompileInputs.cache
+C:\Users\mcrane\source\repos\CiscoSshClientTest\CiscoSshClientTest\obj\Debug\CiscoSshClientTest.vbproj.CopyComplete
+C:\Users\mcrane\source\repos\CiscoSshClientTest\CiscoSshClientTest\obj\Debug\CiscoSshClientTest.exe
+C:\Users\mcrane\source\repos\CiscoSshClientTest\CiscoSshClientTest\obj\Debug\CiscoSshClientTest.xml
+C:\Users\mcrane\source\repos\CiscoSshClientTest\CiscoSshClientTest\obj\Debug\CiscoSshClientTest.pdb
